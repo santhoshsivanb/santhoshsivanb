@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 
 <b>BOLD</b>
+
+<i>Italic</i>
+
+<b>BOLD</b>
