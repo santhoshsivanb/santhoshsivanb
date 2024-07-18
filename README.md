@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Konnichiwa👋
+I'm Santhosh sivan, a senior product designer and passionate coder based in Chennai with over a decade of experience building user-centric digital experiences across web and mobile apps.
+📫 How to reach me: santhoshsivan@live.in
 <!--
 **santhoshsivanb/santhoshsivanb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
